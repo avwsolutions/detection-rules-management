@@ -1,0 +1,9 @@
+[submodule "customers/customer-x-content"]
+	path = customers/customer-x-content
+	url = https://github.com/avwsolutions/customer-x-content.git
+[submodule "customers/customer-y-content"]
+	path = customers/customer-y-content
+	url = https://github.com/avwsolutions/customer-y-content.git
+[submodule "detection-rules"]
+	path = detection-rules
+	url = https://github.com/elastic/detection-rules.git
